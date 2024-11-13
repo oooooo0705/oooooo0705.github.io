@@ -1,10 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "## 北航"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+**北航**
+
+同学你好，我是北航的同学
